@@ -17,7 +17,7 @@ The project follows a standard data science pipeline:
 
 ## **📈 Key Insights from EDA**
 
-* **Size vs. Price**: There is a strong positive correlation (**0.85**) between villa size (![][image1]) and its price. As shown in the plot below, while prices generally scale with size, there is significant variance in higher-end properties.  
+* **Size vs. Price**: There is a strong positive correlation (**0.85**) between villa size (![][image1]) and its price. while prices generally scale with size, there is significant variance in higher-end properties.  
 * **Luxury Features**: Properties with elevators (has\_elevator) command a higher premium, though they represent only \~15% of the cleaned dataset.  
 * **Top 5 Expensive Districts (Avg Price)**:  
   1. **Hittin (حي حطين)**: \~9.52M SAR  
